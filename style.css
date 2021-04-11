@@ -35,3 +35,8 @@ img {
   height: 500px;
   object-fit: cover;
 }
+
+.buttons-container {
+  display: flex;
+  justify-content: space-between;
+}
